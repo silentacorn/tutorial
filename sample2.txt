@@ -1,0 +1,2 @@
+Add a new exmaple file
+Git commands even a monkey can understand
