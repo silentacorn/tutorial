@@ -1,4 +1,5 @@
 Git commands even a monkey can understand
 add: Reister a change in an index
+commit: Save the status of an index
 pull: Obtain the content of the remote repository
 commit: Commit the changes to repository
